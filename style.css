@@ -53,3 +53,8 @@ header img{
     display: flex;
     flex-direction: row-reverse;
 }
+
+.container-.reverse img{
+    width: 25%;
+    height: auto;
+}
