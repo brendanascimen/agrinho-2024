@@ -63,3 +63,7 @@ header img{
 .texto{
     margin-left: 07px;
 }
+
+.container.reverse{
+    flex-direction: row-reverse;
+}
