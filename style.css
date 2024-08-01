@@ -26,7 +26,7 @@ header img{
 }
 .texto-sobreposto{
     position: absolute;
-    top: 20%;
+    top: 09%;
     text-align: center;
     color: var(--paragrafo);
     transform: translate(-50%, -50%);
