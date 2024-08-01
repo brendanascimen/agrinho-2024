@@ -30,6 +30,7 @@ header img{
     text-align: center;
     color: var(--paragrafo);
     transform: translate(-50%, -50%);
+    margin-left: 17%;
 }
 
 .texto-sobreposto h1{
