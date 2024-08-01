@@ -15,5 +15,6 @@ body{
 
 header{
     height: 15%;
-    
+    box-sizing: border-box;
+    box-shadow: none;
 }
