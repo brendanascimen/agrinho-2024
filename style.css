@@ -48,3 +48,8 @@ header img{
 .topico{
     margin-left: 07px;
 }
+
+.container.reverse{
+    display: flex;
+    flex-direction: row-reverse;
+}
