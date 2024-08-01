@@ -49,12 +49,12 @@ header img{
     margin-left: 07px;
 }
 
-.container.reverse{
+.container{
     display: flex;
     flex-direction: row-reverse;
 }
 
-.container.reverse img{
+.container img{
     width: 25%;
     height: auto;
     margin-right: 07px;
