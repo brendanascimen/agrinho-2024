@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&display=swap');
+
+:root{
+    --background: #889;
+    --texto: #333344;
+}
+
+body{
+    background-color: var(--background);
+    font-family: 'Gupter';
+    margin: 0;
+    height: auto;
+    padding: 0%;
+}
+
+header{
+    height: 15%;
+    
+}
